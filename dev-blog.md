@@ -1,0 +1,41 @@
+# dev blog!
+
+## 2022-12-27
+
+Good morning!
+
+I've been going through a major revolution in my life and haven't even booted my computer in ... weeks? I got some really good sleep last night though, and thought, on waking, if I could just pick a fun project to build, I could get myself back on track, and it feels like one of those things I should hold onto. I've been learning to listen to my intuition more.
+
+Oh, hey, my name's Integrity, and I'm a budding developer based out of beautiful downtown New London, Connecticut. Who knows if this will see the light of day, but I figure I'll just start writing and not stop and we'll see where the yellow brick road goes. (lol)
+
+So I was out walking my dog early this morning, and I was like, "Okay! I'm going to \*do\* this thing! I'm going to build MineCraft!"
+
+...
+
+"Wait, no, Mine\*sweeper\*, I'm going to build Mine\*sweeper!\*"
+
+Maybe next project, lol!
+
+I should set a goal, so I don't spend forever on this. Requirements ... it should play, obviously, and I think easy, medium, and hard modes, a timer, and the records on the home screen, saved to localstorage ... mmm, strike that last part ... aww, but what if I open it back up, I don't get to see my old scores? It's going to be devving on localhost ... does localhost even get local storage? Ooo, or it could be a chance to look into the new file manipulation API in browsers! Okay, _next round_ of devving though, let's try to get this done _today_ (along with the rest of the stuff I have to do today, lol, is the challenge.)
+
+What _does_ the day hold? It's going to get up to 35\* later, so I was going to take Dawa (puppers) for a bike ride at some point, I might go for a walk or a juggle in a bit, Dad might stop by to see if it's just his monitor that's not working, I'm working at Saeed's later (t-minus four days of _that_, lol,) I'm going to pick up some herbal this afternoon, though that reminds me to try my pen again, I think I finally figured out the technique to get the last bit out of cartridges, oh and the cooking has to get done, there's chicken in the fridge for Dawa, which is going to get mixed with some of that ham, and I need to make another round of beans, rice, and veg and spice. Dishes are done, at least. Oh, laundry. And what are the emergency vehicles back for? Cops at 6am, firefighters and emts at 7. Right, well, could be worse, let's stop bloviating and get cracking.
+
+I think I'll use my NextJs starter, I can't think of any reason to practice my vanilla skills right now. Just need to check if the latest HupDog project had any major improvements. Just layout stuff, no worries.
+
+Huh, I just finally read the warning message from git about `git config --global init.defaultBranch <name>` ... I just got so burned out from the master-blaster project, my eyes glazed over it.
+
+So what will we need ... the two main screens are the start screen and the game, so for the main screen we'll need a title, buttons for each mode ... or we could do a select and start ... then record times, and a link to the repo. For the game we'll need ... hold on, I need to take a break. I haven't finished my pomodoro timer project or I'd have a prompt, lol. To the future! //
+
+Phew, okay, dry shirt (darn side-effects of coffee!) and we're rolling.
+
+Elements of the game. Let's get some html and css up, then we'll worry about the javascript. Okay, so the grid of squares, and states for the squares, ohhh yeaaa I forgot about the smiley face up top, holy moley it's been a while. Okay so then there's the number of mines left, and the timer.
+
+How about an aesthetic? Dark mode and green? Retro? Neuomorphic? I need to get some inspiration. Oh ... wow ... I didn't realize how used to it looking a certain way I was. If I do dark mode, the blank squares can't be the same color as the background, it looks like something is going to be graphed on it, not like a field of buttons ... all the little animations are going to be fun, interesting to think about a 'spread' effect for empty zones ... oh, remember how it didn't reveal the square until an upclick, so you could move the mouse around if you downclicked on the wrong one? Suspense!
+
+Ooo! For mobile, you could just bump up the percentage of mines accounting for a minimum tap area!
+
+Well, started on the start screen and game components, I'm really not used to sitting this much, my hip is starting to be really tight. Aie aie aie. Looking forward to the next gym sesh, I got the the endurance limit of the difficulty of the core movement and resistance exercises, the reset to lower reps is going to be a relief. The temptation is to stay glued to the terminal ... maybe standing desk mode will happen at some point, for now I need to ... hmm ... Dawa is snoozing ... okay, let's start some laundry going to be being productive. To the future! // Oh \*\*\*\*, hamstring cramp! Hydration!
+
+\[ There was no more dev work that day. Did many things. No dev work. Some better than none, though. Celebrating process. Push and collapse in t minus ... \]
+
+// Omg it was a _month_ I didn't code, I just checked GitHub. Wowzer, Bowser.
